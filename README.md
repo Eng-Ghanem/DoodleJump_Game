@@ -4,6 +4,19 @@ A feature-complete recreation of the classic **DoodleJump** arcade game engineer
 
 ---
 
+## Table of Contents
+
+- [Features](#features)
+- [System Architecture](#system-architecture)
+- [Project Structure](#project-structure)
+- [Hardware Controller Setup](#hardware-controller-setup)
+- [Installation & Running the Game](#installation--running-the-game)
+- [Visual Gallery](#visual-gallery)
+- [Documentation](#documentation)
+- [Author](#author)
+
+---
+
 ## Features
 
 - **Dynamic Physics & Game Engine**:
